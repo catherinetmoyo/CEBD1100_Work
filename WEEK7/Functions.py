@@ -25,14 +25,19 @@ def my_max2(n1, n2, n3):
     my_list = [n1, n2, n3]
     return max(my_list)
 
+#
+# # function 5
+# def my_max3(n1, n2, n3):
+#     my_list = []
+#     input1 = my_list.append(n1)
+#     input2 = my_list.append(n2)
+#     input3 = my_list.append(n3)
+#     return max([input1, input2, input3])
 
-# function 5
-def my_max3(n1, n2, n3):
-    my_list = []
-    input1 = my_list.append(n1)
-    input2 = my_list.append(n2)
-    input3 = my_list.append(n3)
-    return max(input1, input2, input3)
+
+# default function
+def print_name2(first, last = ""):
+    print("Hello " + first + " " + last)
 
 
 # call functions
@@ -40,5 +45,6 @@ print(print_name("Catherine", "Moyo"))
 print(add_numbers(123, 321))
 print(my_max(400, 200, 300))
 print(my_max2(400, 200, 300))
-print(my_max3(400, 200, 30))
+print(print_name2("Catherine"))
+
 

@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cb14f2-bd4f-44e1-a8fc-937fed7ca97e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WEEK7/positive_negative.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK7/positive_negative.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WEEK7/exercise2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,13 +30,27 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK7/positive_negative.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WEEK7/exercise2.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WEEK7/animals.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -88,6 +101,8 @@
         <option value="$PROJECT_DIR$/WEEK6/test1correction.py" />
         <option value="$PROJECT_DIR$/WEEK7/Functions.py" />
         <option value="$PROJECT_DIR$/WEEK7/positive_negative.py" />
+        <option value="$PROJECT_DIR$/WEEK7/exercise2.py" />
+        <option value="$PROJECT_DIR$/WEEK7/animals.py" />
       </list>
     </option>
   </component>
@@ -152,7 +167,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.positive_negative">
+  <component name="RunManager" selected="Python.animals">
     <configuration name="Functions" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CEBD1100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -174,7 +189,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="HowToReadaCSV" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="animals" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CEBD1100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -182,11 +197,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Assignment1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Assignment1/HowToReadaCSV.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK7/animals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,7 +210,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="dictionary" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CEBD1100" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +218,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK4" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK7" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK4/dictionary.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK7/exercise2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,11 +275,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.animals" />
+        <item itemvalue="Python.exercise2" />
         <item itemvalue="Python.positive_negative" />
         <item itemvalue="Python.Functions" />
         <item itemvalue="Python.test1correction" />
-        <item itemvalue="Python.HowToReadaCSV" />
-        <item itemvalue="Python.dictionary" />
       </list>
     </recent_temporary>
   </component>
@@ -300,19 +315,26 @@
       <option name="project" value="LOCAL" />
       <updated>1582766336444</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="new function">
+      <created>1582766992410</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1582766992410</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="1321" y="60" width="1107" height="1259" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2587477" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2587477" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40531278" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.40531278" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -636,6 +658,16 @@
           <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK7/exercise2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK7/animals.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

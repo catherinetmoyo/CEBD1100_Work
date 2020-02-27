@@ -40,5 +40,5 @@ print(print_name("Catherine", "Moyo"))
 print(add_numbers(123, 321))
 print(my_max(400, 200, 300))
 print(my_max2(400, 200, 300))
-print(my_max3(400, 200, 300))
+print(my_max3(400, 200, 30))
 

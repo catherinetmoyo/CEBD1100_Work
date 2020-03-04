@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5cb14f2-bd4f-44e1-a8fc-937fed7ca97e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WEEK7/add_numbers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK7/exercise4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="b5cb14f2-bd4f-44e1-a8fc-937fed7ca97e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WEEK7/add_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="31" selection-start-column="31" selection-end-column="34" />
+            <state relative-caret-position="110">
+              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -133,9 +129,9 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1303" />
+    <option name="x" value="98" />
     <option name="y" value="23" />
-    <option name="width" value="1319" />
+    <option name="width" value="1847" />
     <option name="height" value="1325" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -355,7 +351,21 @@
       <option name="project" value="LOCAL" />
       <updated>1582767593302</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="is number divisible by 3">
+      <created>1582768773505</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1582768773505</updated>
+    </task>
+    <task id="LOCAL-00007" summary="set parameters type">
+      <created>1582768891171</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1582768891171</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -367,7 +377,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3836172" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3836172" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39759037" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -405,7 +415,8 @@
     <MESSAGE value="functions 2" />
     <MESSAGE value="new function" />
     <MESSAGE value="is number divisible by 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="is number divisible by 3" />
+    <MESSAGE value="set parameters type" />
+    <option name="LAST_COMMIT_MESSAGE" value="set parameters type" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -716,8 +727,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK7/add_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="31" selection-start-column="31" selection-end-column="34" />
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>

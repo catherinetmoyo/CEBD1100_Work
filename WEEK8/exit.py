@@ -1,5 +1,7 @@
+import sys
+
 print("line one")
 
-exit(-1)
+sys.exit("student is inactive..shsdhdshs")
 
 print("line two")

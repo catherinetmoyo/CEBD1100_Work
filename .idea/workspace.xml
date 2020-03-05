@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b5cb14f2-bd4f-44e1-a8fc-937fed7ca97e" name="Default Changelist" comment="assert">
-      <change afterPath="$PROJECT_DIR$/WEEK8/division_by_zero.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b5cb14f2-bd4f-44e1-a8fc-937fed7ca97e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/WEEK8/deposit.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK8/deposit.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,15 +26,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="308">
               <caret line="14" selection-start-line="14" selection-end-line="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WEEK7/exercise2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" selection-start-line="9" selection-end-line="9" />
             </state>
           </provider>
         </entry>
@@ -77,13 +66,18 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WEEK8/deposit.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="549">
-              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+            <state relative-caret-position="484">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WEEK8/exit.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -159,6 +153,7 @@
         <option value="$PROJECT_DIR$/WEEK8/exceptions.py" />
         <option value="$PROJECT_DIR$/WEEK8/division_by_zero.py" />
         <option value="$PROJECT_DIR$/WEEK8/deposit.py" />
+        <option value="$PROJECT_DIR$/WEEK8/exit.py" />
       </list>
     </option>
   </component>
@@ -223,7 +218,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.deposit">
+  <component name="RunManager" selected="Python.exit">
     <configuration name="deposit" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CEBD1100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -287,6 +282,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="exit" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="CEBD1100" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK8" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK8/exit.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="program" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="CEBD1100" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -308,34 +324,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="CEBD1100" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WEEK8" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/WEEK8/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.exit" />
         <item itemvalue="Python.deposit" />
         <item itemvalue="Python.division_by_zero" />
         <item itemvalue="Python.exceptions" />
         <item itemvalue="Python.program" />
-        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
@@ -427,11 +422,19 @@
       <option name="project" value="LOCAL" />
       <updated>1583367746477</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="assert">
+      <created>1583369315574</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1583369315574</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="98" y="23" width="1847" height="1325" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15388829" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -835,10 +838,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/WEEK8/deposit.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="549">
-          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        <state relative-caret-position="484">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WEEK8/exit.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>

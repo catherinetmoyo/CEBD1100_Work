@@ -17,14 +17,8 @@ else:
     print("if no error has occurred, run those lines")
     # send your email of confirmation of deposit here
 
-
-
-
-
-
-
-
-
+finally:
+    print("You can deposit RRSP until March 2nd")
 
 
 

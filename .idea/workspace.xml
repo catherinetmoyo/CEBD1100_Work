@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b5cb14f2-bd4f-44e1-a8fc-937fed7ca97e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/WEEK9/50000 Sales Records.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WEEK9/test1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WEEK9/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/WEEK9/test1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -455,7 +454,14 @@
       <option name="project" value="LOCAL" />
       <updated>1583373233805</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="pandas">
+      <created>1583965349661</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1583965349661</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -510,7 +516,8 @@
     <MESSAGE value="assert" />
     <MESSAGE value="exercise1" />
     <MESSAGE value="used defined errors" />
-    <option name="LAST_COMMIT_MESSAGE" value="used defined errors" />
+    <MESSAGE value="pandas" />
+    <option name="LAST_COMMIT_MESSAGE" value="pandas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

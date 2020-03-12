@@ -61,7 +61,7 @@ a = df.groupby('region').sum()['units_sold']
 
 squares = [1, 4, 9, 16, 25, 500]
 
-mpl.plot(squares, linewidth=15)
+mpl.plot(squares, linewidth=5)
 mpl.title("Square Numbers", fontsize=24)
 mpl.xlabel("Value", fontsize=14)
 mpl.ylabel("Square of Value", fontsize=14)
